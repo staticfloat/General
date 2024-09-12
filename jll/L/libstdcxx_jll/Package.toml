@@ -1,0 +1,3 @@
+name = "libstdcxx_jll"
+uuid = "3ba1ab17-c18f-5d2d-9d5a-db37f286de95"
+repo = "https://github.com/staticfloat/libstdcxx_jll.jl"
