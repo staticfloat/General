@@ -3269,6 +3269,7 @@ some amount of consideration when choosing package names.
 4642663a-9907-4130-9c18-0ebd857e5e35 = { name = "Estrin", path = "E/Estrin" }
 464e2eba-0a11-4ed3-b274-413caa1a1cca = { name = "ImGuiTestEngine", path = "I/ImGuiTestEngine" }
 46548c09-8ea8-44c1-9654-b3d0e351469d = { name = "RobustFactorizations", path = "R/RobustFactorizations" }
+465c4c53-7f13-5720-b733-07d6cbd50c3b = { name = "GCC_support_libraries_jll", path = "jll/G/GCC_support_libraries_jll" }
 465dae0f-aa43-4778-a6ab-40ff67afb7df = { name = "SocialSolver", path = "S/SocialSolver" }
 4663d367-db1f-4bef-81e7-dc1bd7f7b428 = { name = "BlockSystems", path = "B/BlockSystems" }
 4665ce21-e117-4649-aed8-08bbe5ccbead = { name = "FractalDimensions", path = "F/FractalDimensions" }
