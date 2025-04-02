@@ -846,6 +846,7 @@ some amount of consideration when choosing package names.
 115d0255-0791-41d2-b533-80bc4cbe6c10 = { name = "Invariants", path = "I/Invariants" }
 115de871-c282-4823-a74f-b03678acf966 = { name = "PhyNEST", path = "P/PhyNEST" }
 11738ef7-5d34-4561-8fd5-55b6644beee9 = { name = "ContinuedFractions", path = "C/ContinuedFractions" }
+117daf6b-c727-5bed-b063-6a70e57c2a0e = { name = "GCCBootstrapMacOS_jll", path = "jll/G/GCCBootstrapMacOS_jll" }
 1183179b-6fd2-4027-9f34-791c8040edc0 = { name = "FusibleBroadcasts", path = "F/FusibleBroadcasts" }
 118347d2-e127-56b9-9933-6abf9cc1adc1 = { name = "MibS_jll", path = "jll/M/MibS_jll" }
 1183f4f0-6f2a-5f1a-908b-139f9cdfea6f = { name = "libdecor_jll", path = "jll/L/libdecor_jll" }

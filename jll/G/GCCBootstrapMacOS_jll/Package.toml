@@ -1,0 +1,3 @@
+name = "GCCBootstrapMacOS_jll"
+uuid = "117daf6b-c727-5bed-b063-6a70e57c2a0e"
+repo = "https://github.com/staticfloat/GCCBootstrapMacOS_jll.jl"
