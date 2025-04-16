@@ -1,0 +1,3 @@
+name = "GCC_crt_objects_jll"
+uuid = "7bc14925-bf4e-535d-80f2-90698dc22d13"
+repo = "https://github.com/staticfloat/GCC_crt_objects_jll.jl"
