@@ -1,0 +1,3 @@
+name = "GCC_jll"
+uuid = "ec15993a-68c6-5861-8652-ef539d7ffb0b"
+repo = "https://github.com/staticfloat/GCC_jll.jl"
